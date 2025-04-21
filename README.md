@@ -7,7 +7,7 @@ Bu proje, Python kullanılarak geliştirilmiş bir yüz tanıma sistemidir. `dli
 - `train_faces_dlib.py`: Alternatif dlib tabanlı eğitim scripti.
 - `face_unlock.py`: Kamera üzerinden yüz tanıma ile "kilit açma" fonksiyonu.
 - `telegram_face_bot.py`: Telegram üzerinden yüz tanıma işlevi sunar.
-- `face_data/`: Tanıtılmış yüz fotoğraflarının bulunduğu klasör (örnek: bugra.jpg).
+- `face_data/`: Tanıtılmış yüz fotoğraflarının bulunduğu klasör.
 
 ## 🧰 Gereksinimler
 ```bash
