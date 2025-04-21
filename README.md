@@ -12,3 +12,13 @@ Bu proje, Python kullanılarak geliştirilmiş bir yüz tanıma sistemidir. `dli
 ## 🧰 Gereksinimler
 ```bash
 pip install face_recognition opencv-python dlib telepot
+
+
+# Yüz eğitimi
+python3 train_faces.py
+
+# Kamera ile tanıma
+python3 face_unlock.py
+
+# Telegram bot (token gerekli)
+python3 telegram_face_bot.py
