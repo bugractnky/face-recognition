@@ -1,9 +1,3 @@
-
----
-
-## ✅ 2. `.gitignore` Dosyası
-
-```gitignore
 # Python
 __pycache__/
 *.pyc
@@ -25,7 +19,7 @@ env/
 .vscode/
 .idea/
 
-# Face data (gerekiyorsa dışarda tutabilirsin)
+# Face images (opsiyonel - silmek istemiyorsan bu satırı çıkar)
 *.jpg
 *.jpeg
 *.png
@@ -33,3 +27,4 @@ env/
 # OS
 .DS_Store
 Thumbs.db
+
