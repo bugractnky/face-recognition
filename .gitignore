@@ -1,0 +1,35 @@
+
+---
+
+## ✅ 2. `.gitignore` Dosyası
+
+```gitignore
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.log
+
+# Virtualenv
+venv/
+env/
+*.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+
+# Face data (gerekiyorsa dışarda tutabilirsin)
+*.jpg
+*.jpeg
+*.png
+
+# OS
+.DS_Store
+Thumbs.db
